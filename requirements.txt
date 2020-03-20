@@ -13,8 +13,3 @@ six==1.14.0
 sqlparse==0.3.1
 typed-ast==1.4.1
 wrapt==1.11.2
-
-
-add each app to setting.py
-map views to url links in urls.py
-map templates to views in each app's views.py
